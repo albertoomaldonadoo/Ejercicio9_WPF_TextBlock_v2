@@ -24,5 +24,17 @@ namespace Ejercicio3
         {
             InitializeComponent();
         }
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("Mensaje del botón");
+
+            e.Handled = true;
+        }
+
+        private void StackPanel_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("Este evento es Button.Click pero capturado por el StackPanel. "
+                            + "Es un ejemplo de bubbling (burbujeo) en WPF.");
+        }
     }
 }

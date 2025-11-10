@@ -7,6 +7,10 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <TextBlock Margin="10">
+    <Hyperlink NavigateUri="https://www.google.com" RequestNavigate="Hyperlink_RequestNavigate">
+        Ir a Google
+    </Hyperlink>
+        </TextBlock>
     </Grid>
 </Window>

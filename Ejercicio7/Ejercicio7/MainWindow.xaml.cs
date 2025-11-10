@@ -24,5 +24,17 @@ namespace Ejercicio7
         {
             InitializeComponent();
         }
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            try
+            {
+                int[] arrayPulsasiones = new int[3];
+                arrayPulsasiones[5] = 10;
+            }
+            catch (Exception excepcion)
+            {
+                MessageBox.Show("Se capturó la excepción: " + excepcion.Message);
+            }
+        }
     }
 }

@@ -7,6 +7,14 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <Button FontWeight="Bold">
+            <Button.Content>
+                <WrapPanel>
+                    <TextBlock Text="verde " Foreground="Green"/>
+                    <TextBlock Text="azul " Foreground="Blue"/>
+                    <TextBlock Text="normal"/>
+                </WrapPanel>
+            </Button.Content>
+        </Button>
     </Grid>
 </Window>

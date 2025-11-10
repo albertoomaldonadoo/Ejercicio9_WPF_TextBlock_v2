@@ -5,8 +5,34 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Ejercicio8"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Ejercicio 8: Run vs Span" Height="200" Width="800">
     <Grid>
-        
+        <TextBlock Margin="20" FontSize="18" TextWrapping="Wrap">
+            
+            <Span>
+                
+                <Run Text="Este es un " Foreground="Blue"/>
+
+                <Run Text="ejemplo" Foreground="Red"/>
+                
+                <Run Text=" de cómo " Foreground="Blue"/>
+                
+                <Run Text="Span"  FontWeight="Bold" Foreground="Green"/>
+                
+                <Run Text=" permite incluir diferentes elementos, como un " Foreground="Blue"/>
+                
+                <Hyperlink NavigateUri="http://www.google.com" RequestNavigate="Hyperlink_RequestNavigate">
+                    <Run Text="enlace"/>
+                </Hyperlink>
+                
+
+                <Run Text="." Foreground="Blue"/>
+            </Span>
+            
+
+            <Run Text=" Run" Foreground="Purple" FontWeight="Normal" FontStyle="Italic"/>
+            <Run Text=" solo aplica estilos a su propio texto." FontWeight="Normal"/>
+
+        </TextBlock>
     </Grid>
 </Window>

@@ -5,8 +5,16 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Ejercicio4"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow"  Height="250" Width="350">
     <Grid>
-        
+        <TextBlock Margin="10" Foreground="Red">
+    Primera linea
+    <LineBreak/>
+    <Run Text="Segunda línea " Foreground="Blue"/>
+    <Run Text="donde esta la palabra en negrita " />
+    <Run Text="ALBERTO" FontWeight="Bold" />
+    <LineBreak/>
+    <Run Text="y esta línea abajo normal como la primera"/>
+        </TextBlock>
     </Grid>
 </Window>

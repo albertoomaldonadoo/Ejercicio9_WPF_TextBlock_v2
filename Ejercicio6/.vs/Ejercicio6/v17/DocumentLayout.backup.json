@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\amaltri0308\\Desktop\\Ejercicio9_WPF_TextBlock_v2\\Ejercicio6\\",
+  "WorkspaceRootPath": "C:\\Users\\alber\\Desktop\\Ejercicio9_WPF_TextBlock_v2\\Ejercicio6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A0A3BB36-7F89-4361-8770-94C96A254F32}|Ejercicio6\\Ejercicio6.csproj|c:\\users\\amaltri0308\\desktop\\ejercicio9_wpf_textblock_v2\\ejercicio6\\ejercicio6\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A0A3BB36-7F89-4361-8770-94C96A254F32}|Ejercicio6\\Ejercicio6.csproj|solutionrelative:ejercicio6\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alber\\Desktop\\Ejercicio9_WPF_TextBlock_v2\\Ejercicio6\\Ejercicio6\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ejercicio6\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0A3BB36-7F89-4361-8770-94C96A254F32}|Ejercicio6\\Ejercicio6.csproj|c:\\users\\amaltri0308\\desktop\\ejercicio9_wpf_textblock_v2\\ejercicio6\\ejercicio6\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0A3BB36-7F89-4361-8770-94C96A254F32}|Ejercicio6\\Ejercicio6.csproj|solutionrelative:ejercicio6\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alber\\Desktop\\Ejercicio9_WPF_TextBlock_v2\\Ejercicio6\\Ejercicio6\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ejercicio6\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,10 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\amaltri0308\\Desktop\\Ejercicio9_WPF_TextBlock_v2\\Ejercicio6\\Ejercicio6\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\alber\\Desktop\\Ejercicio9_WPF_TextBlock_v2\\Ejercicio6\\Ejercicio6\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Ejercicio6\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\amaltri0308\\Desktop\\Ejercicio9_WPF_TextBlock_v2\\Ejercicio6\\Ejercicio6\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\alber\\Desktop\\Ejercicio9_WPF_TextBlock_v2\\Ejercicio6\\Ejercicio6\\MainWindow.xaml",
               "RelativeToolTip": "Ejercicio6\\MainWindow.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-11-06T11:42:03.895Z",
               "EditorCaption": ""
@@ -36,14 +37,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\amaltri0308\\Desktop\\Ejercicio9_WPF_TextBlock_v2\\Ejercicio6\\Ejercicio6\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\Desktop\\Ejercicio9_WPF_TextBlock_v2\\Ejercicio6\\Ejercicio6\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Ejercicio6\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\amaltri0308\\Desktop\\Ejercicio9_WPF_TextBlock_v2\\Ejercicio6\\Ejercicio6\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\alber\\Desktop\\Ejercicio9_WPF_TextBlock_v2\\Ejercicio6\\Ejercicio6\\MainWindow.xaml.cs",
               "RelativeToolTip": "Ejercicio6\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T11:42:03.66Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-06T11:42:03.66Z"
             }
           ]
         }
